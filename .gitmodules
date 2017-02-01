@@ -13,6 +13,3 @@
 [submodule "factorio-longer-underground-belts"]
 	path = factorio-longer-underground-belts
 	url = https://github.com/mackeybj/factorio-longer-underground-belts
-[submodule "long-reach"]
-	path = long-reach
-	url = https://github.com/jaguilar/long-reach
