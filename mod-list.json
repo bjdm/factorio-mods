@@ -3,6 +3,46 @@
         {
             "name": "base",
             "enabled": "true"
+        },
+        {
+            "name": "advanced-logistics-system",
+            "enabled": "true"
+        },
+        {
+            "name": "Bottleneck",
+            "enabled": "true"
+        },
+        {
+            "name": "clock",
+            "enabled": "true"
+        },
+        {
+            "name": "Enhanced_Map_Colors",
+            "enabled": "true"
+        },
+        {
+            "name": "GDIW",
+            "enabled": "true"
+        },
+        {
+            "name": "long-reach",
+            "enabled": "true"
+        },
+        {
+            "name": "longer-underground-belts",
+            "enabled": "true"
+        },
+        {
+            "name": "Long_Underground_Pipes",
+            "enabled": "true"
+        },
+        {
+            "name": "research-queue",
+            "enabled": "true"
+        },
+        {
+            "name": "Squeak Through",
+            "enabled": "true"
         }
     ]
 }
