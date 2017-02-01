@@ -10,3 +10,6 @@
 [submodule "gdiw"]
 	path = gdiw
 	url = https://github.com/dacyclops/gdiw
+[submodule "factorio-longer-underground-belts"]
+	path = factorio-longer-underground-belts
+	url = https://github.com/mackeybj/factorio-longer-underground-belts
