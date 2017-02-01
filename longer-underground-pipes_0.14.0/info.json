@@ -1,0 +1,10 @@
+{
+  "name": "longer-underground-pipes",
+  "version": "0.14.0",
+  "title": "Longer Underground Pipes",
+  "author": "Brent Mackey",
+  "homepage": "https://github.com/mackeybj/factorio-mods/longer-underground-pipes",
+  "factorio_version": "0.14",
+  "dependencies": ["base"],
+  "description": "Underground transport pipes are now 50 units long."
+}
