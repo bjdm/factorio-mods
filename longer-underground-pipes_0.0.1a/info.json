@@ -1,10 +1,10 @@
 {
-  "name": "longer-underground-belts",
+  "name": "longer-underground-pipes",
   "version": "0.14.0",
-  "title": "Longer Underground Belts",
-  "author": "Daniel Bergmann",
-  "homepage": "https://github.com/brgmnn/factorio-longer-underground-belts",
+  "title": "Longer Underground Pipes",
+  "author": "Brent Mackey",
+  "homepage": "https://github.com/mackeybj/factorio-mods/longer-underground-pipes_0.0.1a",
   "factorio_version": "0.14",
   "dependencies": ["base"],
-  "description": "Underground transport belts are now the same length as underground fluid pipes."
+  "description": "Underground transport pipes are now 50 units long."
 }
