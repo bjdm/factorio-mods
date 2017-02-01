@@ -1,6 +1,3 @@
-[submodule "factorio-longer-underground-belts"]
-	path = factorio-longer-underground-belts
-	url = https://github.com/brgmnn/factorio-longer-underground-belts
 [submodule "advanced-logistics-system"]
 	path = advanced-logistics-system
 	url = https://github.com/anoutsider/advanced-logistics-system
