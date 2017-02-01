@@ -1,0 +1,12 @@
+[submodule "advanced-logistics-system"]
+	path = advanced-logistics-system
+	url = https://github.com/anoutsider/advanced-logistics-system
+[submodule "Bottleneck"]
+	path = Bottleneck
+	url = https://github.com/troelsbjerre/Bottleneck
+[submodule "gdiw"]
+	path = gdiw
+	url = https://github.com/dacyclops/gdiw
+[submodule "factorio-longer-underground-belts"]
+	path = factorio-longer-underground-belts
+	url = https://github.com/mackeybj/factorio-longer-underground-belts
